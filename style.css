@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+
+  background-color: #2c2b3d;
+}
+
+.page {
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 4.4rem 6.1rem 0 8rem;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 3rem;
+}
+
+a {
+  color: #ffff;
+  text-decoration: none;
+}
