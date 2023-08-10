@@ -63,7 +63,7 @@ footer {
   font-family: "JetBrains Mono", sans-serif;
   text-align: center;
 
-	padding-top: 12.1rem;
+  padding-top: 12.1rem;
 }
 
 .line {
@@ -73,8 +73,8 @@ footer {
 }
 
 #padlock-decoration {
-	position: fixed;
-	margin: 0 0 1.25rem 1.25rem;
-	bottom: 0;
-	left: 0;
+  position: fixed;
+  margin: 0 0 1.25rem 1.25rem;
+  bottom: 0;
+  left: 0;
 }
