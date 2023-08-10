@@ -63,12 +63,12 @@ footer {
   font-family: "JetBrains Mono", sans-serif;
   text-align: center;
 
-  padding-top: 12.1rem;
+  padding: 12.1rem 0rem 1.4rem 0rem;
 }
 
 .line {
   width: 35.5rem;
-  margin: 0 auto 8px;
+  margin: 0 auto 1.6rem;
   border: 1px solid #00bfa6;
 }
 
