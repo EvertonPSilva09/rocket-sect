@@ -15,7 +15,7 @@ nav {
   display: flex;
   justify-content: space-between;
 
-  padding: 4.4rem 6.1rem 0 8rem;
+  padding: 4.4rem 6.1rem 0 6.1rem;
 
   font-family: "JetBrains Mono", sans-serif;
   font-size: 14px;
@@ -31,4 +31,31 @@ ul {
 a {
   color: #ffff;
   text-decoration: none;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin: 6.8rem 5.5rem 9.8rem 6.1rem;
+
+  text-align: center;
+}
+
+h1 {
+  font-family: "JetBrains Mono", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+span {
+  color: #00bfa6;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  line-height: 28px;
+
+  margin-top: 58px;
 }
